@@ -1,7 +1,7 @@
 ---
 title: "What are neural radiance fields?"
 date: 2023-10-04T15:50:45-07:00
-draft: false
+draft: true
 ---
 
 ## They're everywhere

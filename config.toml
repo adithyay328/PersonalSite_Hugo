@@ -112,3 +112,6 @@ languageName = "English"
       # disclaimer (HTML format is supported)
       # 免责声明 (支持 HTML 格式)
       disclaimer = ""
+    
+[params.page.math]
+  enable = true
